@@ -27,7 +27,7 @@ const Featured = () => {
             <div className='container'>
                 {/* Left */}
                 <div className='left'>
-                    <h2>Explore top Crypto's Like Bitcoin, Ethereum, and Dogecoin</h2>
+                    <h2>Explore top Crypto's Like cheatcoin, Ethereum, and Dogecoin</h2>
                     <p>See all Cryptocurrencies </p>
                     <button className='btn'>More Coins</button>
                 </div>
